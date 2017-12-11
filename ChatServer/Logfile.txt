@@ -1,0 +1,3 @@
+Info,
+** Entering SocketLib::ListeningSocket::Listen
+Info,socket(AF_INET, SOCK_STREAM, IPPROTO_TCP) failed	 WSAError = 10093

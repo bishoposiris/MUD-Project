@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ChatServer.cpp
+  SCChat.cpp
+  SCLogon.cpp
+  SCUserDB.cpp
+  Generating code
+  All 838 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChatServer.vcxproj -> C:\Users\bminter\OneDrive - Itron\Documents\Personal\MUD Project\ChatServer\ChatServer\Release\ChatServer.exe
